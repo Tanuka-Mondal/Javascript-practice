@@ -1,1 +1,1 @@
-var quotient = 66 / 33;
+var quotient = 66 / 33; // assigned 2
